@@ -5,8 +5,8 @@
 [![Website](https://img.shields.io/badge/kruzxee.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://kruzxee.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2EA44F?style=flat-square&logo=readdotcv&logoColor=white)](https://kruzxee.github.io/assets/help/Krutarth-Ghuge-Resume.pdf)
 
-I'm a software engineer and data professional who is passionate about trading and the markets.
-I build data pipelines, machine learning models and software, and I'm working toward bringing that toolkit to trading:
+I'm a data analyst focused on financial markets and risk analytics, with hands-on software engineering experience.
+I build ETL pipelines, analyze complex datasets and ship production software, and I bring that toolkit to trading:
 using data and code to understand how markets move and to make better investment decisions.
 
 <div>
@@ -23,16 +23,17 @@ using data and code to understand how markets move and to make better investment
 ### 🧑‍💻 About me
 
 - 💼 **Software Engineer at Neo Engineering Solutions** (Sep 2026 to present). I build AI-driven engineering software for the oil and gas industry.
+- 🛎️ **Backend Engineer at Lock21**, a local startup (Jun 2026 to present). I architected the backend of a POS-integrated loyalty platform: PostgreSQL on Supabase, a Node.js/Express REST API, and Square POS integration via OAuth and webhooks.
 - 🚀 **Data and Product Developer at ReceivECO**, a fintech startup (2025). I built and launched a receipt-tracking platform with OCR, bank API and QuickBooks integrations, built to PCI DSS and PIPEDA standards.
 - 🛰️ **Data Analyst Intern at Atria University** (2024). I built geospatial ETL pipelines on satellite data that cut processing time by 50%.
 - 🎓 **B.Sc. (Honours) in Computer Science from Trent University** (2025), specializing in Data Analytics with a Minor in Economics. I also taught labs and workshops there as a demonstrator and academic assistant.
-- 📜 **Certifications:** Canadian Investment Funds Course, Python Data Associate, and Generative AI for Developers (Google).
+- 📜 **Certifications:** Microsoft Azure Data Fundamentals, Microsoft Azure AI Fundamentals, DataCamp Python Data Associate, Google Cloud Introduction to Generative AI, and the Canadian Investment Funds Course.
 
 ### 🔭 Selected projects
 
-- **ASL Recognition Neural Network** (C++, OpenMP, MPI). A parallel neural network built from scratch that classifies 24 sign-language letters with over 92% accuracy.
-- **U.S. Medical Insurance Costs** (Python, Excel). An analysis of 1,300+ insurance records showing how age, BMI, smoking and region drive costs.
-- **Student and Alumni Job Outreach Database** (SQL). A normalized database design with triggers and role-based access, built to scale to a million users.
+- **[ASL Recognition Neural Network](https://github.com/kruzxee/projects-university/tree/main/ASL%20Recognition%20Neural%20Network)** (C++, OpenMP, MPI). A parallel neural network built from scratch that classifies 24 sign-language letters with over 92% accuracy.
+- **[U.S. Medical Insurance Costs](https://github.com/kruzxee/projects/tree/main/US-Medical-Insurance-Costs)** (Python, Excel). An analysis of 1,300+ insurance records showing how age, BMI, smoking and region drive costs.
+- **[Student and Alumni Job Outreach Database](https://github.com/kruzxee/projects-university/tree/main/JASS%20Database%20System)** (SQL). A normalized database design with triggers and role-based access, built to scale to a million users.
 
 More on my [projects page](https://kruzxee.github.io/projects/).
 
@@ -46,7 +47,7 @@ More on my [projects page](https://kruzxee.github.io/projects/).
 
 [![Data and ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql)](https://skillicons.dev)
 
-Also Pandas, NumPy, Jupyter, Power BI, Tableau and advanced Excel.
+Also Pandas, NumPy, Jupyter, Power BI, Tableau, PostgreSQL, SQL Server and advanced Excel.
 
 **Tools & Cloud**
 
